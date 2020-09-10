@@ -1,0 +1,4 @@
+Find GCD for the following
+(5,8)
+(109,678)
+(11,77)

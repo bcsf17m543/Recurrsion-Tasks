@@ -1,0 +1,4 @@
+Find Binomial co-efficient for the following
+(5,2)
+(3,1)
+(6,9)
